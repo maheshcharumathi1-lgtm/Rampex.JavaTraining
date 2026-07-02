@@ -1,6 +1,6 @@
 package Day_8.classTask;
 import java.util.Arrays;
-public class ArrayReverse {
+class ArrayReverse {
     public static void main(String [] args){
         String [] menu={"Veg","Non-veg","Sweets","Beverages"};
         String [] m1= new String[menu.length];

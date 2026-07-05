@@ -1,6 +1,6 @@
 package Day_10.HomeTask;
 
-class Laptop {
+class  Laptop {
     String brand;
     String model;
     int ram;

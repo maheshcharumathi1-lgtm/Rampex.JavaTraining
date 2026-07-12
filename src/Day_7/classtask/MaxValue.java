@@ -6,7 +6,7 @@ public class MaxValue
     {
        int[] nums = {1, 2, 3, 5, 4};
        int max = 0;
-       for (int i = 0; i < nums.length; i++)
+       for (int i = 0; i < nums.length-1; i++)
        {
            if (nums[i] >max)
            {

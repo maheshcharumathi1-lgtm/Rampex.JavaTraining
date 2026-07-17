@@ -14,5 +14,5 @@ public class SecondMax {
         System.out.println("First Max: "+max);
         System.out.println("Second Max: "+smax);
     }
-
 }
+ 
